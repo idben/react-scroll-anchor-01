@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-scroll-anchor-01/static/css/main.29759712.css",
+    "main.js": "/react-scroll-anchor-01/static/js/main.ef08c942.js",
+    "static/js/787.50cb7111.chunk.js": "/react-scroll-anchor-01/static/js/787.50cb7111.chunk.js",
+    "index.html": "/react-scroll-anchor-01/index.html",
+    "main.29759712.css.map": "/react-scroll-anchor-01/static/css/main.29759712.css.map",
+    "main.ef08c942.js.map": "/react-scroll-anchor-01/static/js/main.ef08c942.js.map",
+    "787.50cb7111.chunk.js.map": "/react-scroll-anchor-01/static/js/787.50cb7111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29759712.css",
+    "static/js/main.ef08c942.js"
+  ]
+}
